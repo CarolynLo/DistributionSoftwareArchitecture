@@ -6,4 +6,4 @@ existing system’s source code according to the requirements below and to answe
 related to the modifications. While you may discuss design decisions with your colleagues, the lab must
 be done individually.
 
-## More details in [Lab2.pdf](./Lab2.pdf)
+###### More details in [Lab2.pdf](./Lab2.pdf)
