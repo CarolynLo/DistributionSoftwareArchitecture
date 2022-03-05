@@ -1,0 +1,21 @@
+Feb 09, 2022 5:33:56 PM LoggingOutput update
+INFO: 
+Student Registration System
+
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 1) List all students
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 2) List all courses
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 3) List students who registered for a course
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 4) List courses a student has registered for
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 5) List courses a student has completed
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 6) Register a student for a course
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: x) Exit
+Feb 09, 2022 5:33:57 PM LoggingOutput update
+INFO: 
+Enter your choice and press return >> 

@@ -1,0 +1,11 @@
+NOTE: These instructions assume that you have already installed Java SE 8 or higher.
+First, unzip the Lab2.zip file into a working directory. In order to compile the system, open a command
+prompt window (or start a Linux terminal), change the working directory to the directory containing all
+of the system¡¦s source files, and type the following:
+javac *.java
+The compile command above creates the class files. After that, you can run the system by typing:
+java SystemMain Students.txt Courses.txt
+
+And you can see all the output on console and output.log
+
+// Reference: Lab2.pdf
