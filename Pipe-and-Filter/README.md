@@ -5,4 +5,4 @@ as described below. Your task is to extend the existing framework to architect a
 specified in the requirements below. While you may discuss design decisions with your colleagues, the
 lab must be done individually.
 
-###### More details in Lab1-2022.pdf
+###### More details in [Lab1-2022.pdf](./Lab1-2022.pdf)
