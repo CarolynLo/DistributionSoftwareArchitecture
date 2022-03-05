@@ -9,4 +9,4 @@ ISBN-10: 0470167742
 ISBN-13: 978-0470167748
 
 ## Professor
-Sam Malek, UCI
+Sam Malek
